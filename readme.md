@@ -1,4 +1,4 @@
 # Zarządzanie projektem informatycznym
 
-**Łukasz Malinowski**
-**Przemysław Karpowicz**
+**Łukasz Malinowski \
+Przemysław Karpowicz**
